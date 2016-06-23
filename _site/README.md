@@ -12,7 +12,6 @@ Here's a list of things you'll probably want to do right away:
 
 * Change the personal information in the `_config.yml` file (name,
   email, description, etc)
-* Upload your own photo to the `image/personal-photo.jpg` file 
 * Update the `index.md` file to whatever you want. This is the
   "homepage" for your website.
 * Create whatever subpages you want. I've included `teaching.md` as an

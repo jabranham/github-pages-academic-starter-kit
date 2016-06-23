@@ -1,13 +1,13 @@
 # Site settings
-title: J. Alexander Branham
-email: branham@utexas.edu
+title: Yang Lin, Ph.D.
+email: yanglin at berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a PhD Candidate in the Department of Government at UT-Austin.
-  I study American politics, public opinion, and methods. 
+  I'm a Postdoctoral Scholar in the Department of Environmental Science, Policy, and Management at UC Berkeley.
+  I study biogeochemistry and ecosystem ecology. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jabranham.com" # the base hostname & protocol for your site
-twitter_username: JAlexBranham
-github_username:  jabranham
+url: "https://ylinterra.com" # the base hostname & protocol for your site
+twitter_username: lesterlin
+github_username:  deltac13
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
