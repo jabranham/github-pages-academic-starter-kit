@@ -1,6 +1,6 @@
 This is a starter kit for making an academic webpage using github pages. There is a live preview of this [available here](https://jabranham.com/github-pages-academic-starter-kit/)
 
-Feel free to fork this project in order to get your own site going. You should be able to fork it and rename it to <your-username>.github.io to get started. Please note the license, below.
+Feel free to fork this project in order to get your own site going. You should be able to fork it and rename it to `<your-username>.github.io` to get started. Please note the license, below.
 
 Also note that the setup has recently changed - the site now relies on `jekyll`'s themes engine. The default theme is minima (and, as of this writing, that's the only one available). Here's a link to [a list of supported themes](https://pages.github.com/themes/).
 
