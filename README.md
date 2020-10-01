@@ -1,4 +1,4 @@
-This is a starter kit for making an academic webpage using github pages. There is a live preview of this [available here](https://jabranham.com/github-pages-academic-starter-kit/)
+This is a starter project for making an academic webpage using github pages. There is a live preview of this [available here](https://jabranham.com/github-pages-academic-starter-kit/)
 
 Feel free to fork this project in order to get your own site going. You should be able to fork it and rename it to `<your-username>.github.io` to get started. Please note the license, below.
 
@@ -9,9 +9,9 @@ Here's a list of things you'll probably want to do right away:
 * Change the personal information in the `_config.yml` file (name, email, description, etc)
 * Update the `index.md` file to whatever you want. This is the "homepage" for your website.
 * Create whatever subpages you want. I've included `teaching.md` as an example template. So that would be served at www.yousite.com/teaching.
-  * These pages will automatically appear in the site's header at the top
+  * These pages will automatically appear in the site's header at the top.
   
-That's probably enough to get started right away. Feel free to contact me with any questions you have!
+That's probably enough to get started right now. Feel free to contact me with any questions you have!
 
 
 
